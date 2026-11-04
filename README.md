@@ -1,4 +1,4 @@
-# VIZE ODEV
+# VİZE ÖDEVİ
 PROGRAMLAMAYA GİRİŞ VİZE ÖDEVİ
 
 # Bir Varmış Bir Yokmuş
